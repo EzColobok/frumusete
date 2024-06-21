@@ -1,0 +1,20 @@
+D:\last solo try\do not understand\do not understand\bin\Debug\net8.0-windows\do not understand.exe
+D:\last solo try\do not understand\do not understand\bin\Debug\net8.0-windows\do not understand.deps.json
+D:\last solo try\do not understand\do not understand\bin\Debug\net8.0-windows\do not understand.runtimeconfig.json
+D:\last solo try\do not understand\do not understand\bin\Debug\net8.0-windows\do not understand.dll
+D:\last solo try\do not understand\do not understand\bin\Debug\net8.0-windows\do not understand.pdb
+D:\last solo try\do not understand\do not understand\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\last solo try\do not understand\do not understand\obj\Debug\net8.0-windows\App.g.cs
+D:\last solo try\do not understand\do not understand\obj\Debug\net8.0-windows\do not understand_MarkupCompile.cache
+D:\last solo try\do not understand\do not understand\obj\Debug\net8.0-windows\do not understand_MarkupCompile.lref
+D:\last solo try\do not understand\do not understand\obj\Debug\net8.0-windows\MainWindow.baml
+D:\last solo try\do not understand\do not understand\obj\Debug\net8.0-windows\do not understand.g.resources
+D:\last solo try\do not understand\do not understand\obj\Debug\net8.0-windows\do not understand.GeneratedMSBuildEditorConfig.editorconfig
+D:\last solo try\do not understand\do not understand\obj\Debug\net8.0-windows\do not understand.AssemblyInfoInputs.cache
+D:\last solo try\do not understand\do not understand\obj\Debug\net8.0-windows\do not understand.AssemblyInfo.cs
+D:\last solo try\do not understand\do not understand\obj\Debug\net8.0-windows\do not understand.csproj.CoreCompileInputs.cache
+D:\last solo try\do not understand\do not understand\obj\Debug\net8.0-windows\do not understand.dll
+D:\last solo try\do not understand\do not understand\obj\Debug\net8.0-windows\refint\do not understand.dll
+D:\last solo try\do not understand\do not understand\obj\Debug\net8.0-windows\do not understand.pdb
+D:\last solo try\do not understand\do not understand\obj\Debug\net8.0-windows\do not understand.genruntimeconfig.cache
+D:\last solo try\do not understand\do not understand\obj\Debug\net8.0-windows\ref\do not understand.dll

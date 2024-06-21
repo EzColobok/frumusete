@@ -1,0 +1,21 @@
+﻿<Window x:Class="do_not_understand.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:do_not_understand"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="720" Width="1280">
+    <Grid Background="Gray">
+        <!-- Border pentru a defini zona dreptunghiulară de 600x300 pixeli -->
+        <Border Width="300" Height="600" BorderBrush="white" BorderThickness="1">
+            <Grid Name="MainGrid">
+                <!-- Definirea rândurilor și coloanelor va fi făcută din cod-behind -->
+            </Grid>
+        </Border>
+        
+    </Grid>
+
+    
+    
+</Window>
